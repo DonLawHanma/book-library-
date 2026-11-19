@@ -16,4 +16,4 @@ Requires Python 3.8 or newer. No external dependencies.
 ## CSV format
 Header: `Title,Author,Year,ISBN`. Year must be 1000 up to the current year. ISBN must be digits only and at least 10 digits long.
 
-Author: Ueza Congo
+
