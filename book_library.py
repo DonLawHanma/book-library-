@@ -1,6 +1,5 @@
 """
 INFO-1298 Project 2 - Personal Book Library
-Author: Ueza Congo
 Purpose: Manage a personal book library using a Python dictionary,
 load records from books.csv, validate data, and save on exit.
 
