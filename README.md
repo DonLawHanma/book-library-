@@ -1,6 +1,6 @@
 # Personal Book Library
 
-INFO-1298 Project 2. A command-line app that manages a personal book library in a Python dictionary, loads records from `books.csv`, validates the data, and saves on exit.
+A command-line app that manages a personal book library in a Python dictionary, loads records from `books.csv`, validates the data, and saves on exit.
 
 ## Features
 - Add a book, update an author or year, delete a book (with confirmation)
